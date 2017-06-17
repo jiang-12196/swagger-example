@@ -17,7 +17,7 @@
     "application/json"
   ],
   "paths": {
-    "/": {
+    "/hello": {
       "x-swagger-router-controller": "hello_world",
       "get": {
         "description": "Returns 'Hello' to the caller",
